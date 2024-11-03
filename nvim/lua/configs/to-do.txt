@@ -1,0 +1,4 @@
+--Complete dap setup for rust without ignoring current 
+file structure https://www.youtube.com/watch?v=E2mKJ73M9pg
+--set up git for this config
+--fuck this shit
